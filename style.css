@@ -38,3 +38,9 @@
   .item {
     height: 100px;
   }
+
+  .edit {
+    height: 0;
+    text-align: right;
+  }
+  
