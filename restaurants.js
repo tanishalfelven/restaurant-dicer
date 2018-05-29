@@ -1,4 +1,4 @@
-export const restaurants = [
+const restaurants = [
     "Kizuki",
     "Square Lotus/Thai",
     "Southgate Garden",

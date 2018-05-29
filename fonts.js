@@ -1,4 +1,4 @@
-export const fonts = [
+const fonts = [
     "Georgia",
     "serif",
     "Palatino Linotype",
